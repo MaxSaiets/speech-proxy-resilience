@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+python-multipart
+openai
+elevenlabs
+celery
+redis
+prometheus-fastapi-instrumentator
+pytest
+pytest-asyncio 
